@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalonesProyecto</string>
+    <string name="title_activity_info_salon">Informacion del Salon</string>
+    <string name="title_activity_alumnos">Alumnos</string>
+</resources>
